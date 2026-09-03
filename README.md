@@ -32,4 +32,3 @@
 git clone [https://github.com/ThieuHung2006/blog-app.git](https://github.com/ThieuHung2006/blog-app.git)
 cd simple-blog
 npm run dev
-de khoi chay
