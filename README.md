@@ -27,7 +27,7 @@
 
 ## ⚙️ Hướng dẫn cài đặt và khởi chạy
 
-### 1. Tải dự án về máy
+### 1. Tải dự án về máy và chạy
 ```bash
 git clone [https://github.com/ThieuHung2006/blog-app.git](https://github.com/ThieuHung2006/blog-app.git)
 cd simple-blog
