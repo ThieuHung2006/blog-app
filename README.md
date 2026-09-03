@@ -33,5 +33,5 @@
 
 ### 2. Tải mã nguồn
 ```bash
-git clone <URL_repository_cua_ban>
+git clone gh repo clone ThieuHung2006/blog-app
 cd simple-blog
