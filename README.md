@@ -8,10 +8,10 @@
 
 - **Xác thực người dùng:** Đăng ký, Đăng nhập và Đăng xuất (JWT Authentication).
 - **Quản lý bài viết (CRUD):**
-  - **C**reate: Tạo bài viết mới kèm tiêu đề, slug, mô tả.
-  - **R**ead: Xem danh sách bài viết trên Trang chủ và trang Quản lý.
-  - **U**pdate: Cập nhật nội dung tiêu đề và mô tả bài viết.
-  - **D**elete: Xóa bài viết theo ID hoặc Slug.
+  - **Create:** Tạo bài viết mới kèm tiêu đề, slug, mô tả.
+  - **Read:** Xem danh sách bài viết trên Trang chủ và trang Quản lý.
+  - **Update:** Cập nhật nội dung tiêu đề và mô tả bài viết.
+  - **Delete:** Xóa bài viết theo ID hoặc Slug.
 - **Kết nối Database Cloud:** Tích hợp trực tiếp với MongoDB Atlas.
 
 ---
@@ -27,11 +27,7 @@
 
 ## ⚙️ Hướng dẫn cài đặt và khởi chạy
 
-### 1. Yêu cầu môi trường
-- Node.js (phiên bản v18 trở lên)
-- NPM hoặc Yarn
-
-### 2. Tải mã nguồn
+### 1. Tải dự án về máy
 ```bash
-git clone gh repo clone ThieuHung2006/blog-app
-cd simple-blog
+git clone [https://github.com/ThieuHung2006/blog-app.git](https://github.com/ThieuHung2006/blog-app.git)
+cd blog-app
