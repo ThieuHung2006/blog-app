@@ -30,4 +30,6 @@
 ### 1. Tải dự án về máy
 ```bash
 git clone [https://github.com/ThieuHung2006/blog-app.git](https://github.com/ThieuHung2006/blog-app.git)
-cd blog-app
+cd simple-blog
+npm run dev
+de khoi chay
